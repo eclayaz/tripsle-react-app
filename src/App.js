@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Tripsle
+          Tripsle Site
         </a>
       </header>
     </div>
